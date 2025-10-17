@@ -1,0 +1,122 @@
+{
+    "Venom snake": {
+        "id": "P001",
+        "price": 29.99,
+        "description": "Originally a combat medic, Venom Snake becomes the body double of Big Boss following a near-fatal explosion. He leads the mercenary group Diamond Dogs and serves as a symbolic figurehead for Big Boss’s legacy. His identity challenges the concept of self and loyalty in warfare.",
+        "image": "./images/venom snake.jpg"
+    },
+    "Solid Snake": {
+        "id": "P002",
+        "price": 59.99,
+        "description": "A clone of Big Boss, Solid Snake is a legendary operative known for his solo infiltration missions and his role in dismantling nuclear threats like Metal Gear. Calm, resourceful, and morally grounded, he often questions the systems he serves and the nature of his own existence.",
+        "image": "./images/solid snake.jpg"
+    },
+    "Liquid Snake": {
+        "id": "P003",
+        "price": 15.49,
+        "description": "Liquid Snake is the most emotionally volatile of Big Boss’s clones. Charismatic and manipulative, he harbors resentment over his perceived genetic inferiority and seeks to surpass his origins by leading insurrections and seizing control of Metal Gear technology.",
+        "image": "./images/liquid snake.jpg"
+    },
+    "Naked Snake (Big Boss)": {
+        "id": "P004",
+        "price": 199.00,
+        "description": "The original soldier from whom the clones were derived, Naked Snake earns the title “Big Boss” after a pivotal mission during the Cold War. His journey from loyal operative to rogue warlord forms the backbone of the Metal Gear saga, exploring themes of betrayal, ideology, and the cost of legacy.",
+        "image": "./images/naked snake.jpg"
+    },
+    "Solidus Snake": {
+        "id": "P005",
+        "price": 27.00,
+        "description": "The third clone of Big Boss, Solidus Snake is genetically the most balanced of the three. He served as the 43rd President of the United States and later led the Sons of Liberty in a rebellion against digital control and surveillance. His motivations blend political idealism with personal ambition.",
+        "image": "./images/solidus snake.jpg"
+    },
+    "Raiden": {
+        "id": "P006",
+        "price": 34.95,
+        "description": "A child soldier turned elite operative, Raiden undergoes cybernetic enhancement after traumatic missions. His story explores identity, redemption, and the human cost of war in a digital age.",
+        "image": "./images/raiden.jpg"
+    },
+    "Revolver Ocelot": {
+        "id": "P007",
+        "price": 22.50,
+        "description": "A master manipulator and triple agent, Ocelot plays key roles across the series. His loyalty to Big Boss and love for revolvers define his complex, shifting allegiances.",
+        "image": "./images/ocelot.jpg"
+    },
+    "The Boss": {
+        "id": "P008",
+        "price": 49.99,
+        "description": "Mentor to Naked Snake, The Boss is a legendary soldier who sacrifices herself for peace. Her ideals challenge the meaning of patriotism and loyalty.",
+        "image": "./images/the boss.jpg"
+    },
+    "Gray Fox": {
+        "id": "P009",
+        "price": 18.75,
+        "description": "Once Solid Snake’s ally, Gray Fox becomes a cyborg ninja after near-death. His tragic arc explores revenge, memory, and the loss of humanity.",
+        "image": "./images/gray fox.jpg"
+    },
+    "Kazuhira Miller": {
+        "id": "P010",
+        "price": 31.20,
+        "description": "A strategist and loyal ally to Big Boss, Miller helps build MSF and Diamond Dogs. His pragmatic mindset contrasts with the idealism around him.",
+        "image": "./images/kazuhira.jpg"
+    },
+    "Quiet": {
+        "id": "P011",
+        "price": 26.40,
+        "description": "A sniper infected with a parasite, Quiet chooses silence to protect others. Her loyalty and sacrifice highlight themes of trust and communication.",
+        "image": "./images/quiet.jpg"
+    },
+    "Paz Ortega Andrade": {
+        "id": "P012",
+        "price": 19.99,
+        "description": "Initially appearing as a student, Paz is revealed to be a spy. Her dual identity and tragic fate underscore the cost of deception in espionage.",
+        "image": "./images/paz.jpg"
+    },
+    "Huey Emmerich": {
+        "id": "P013",
+        "price": 17.80,
+        "description": "A scientist involved in Metal Gear development, Huey’s actions raise ethical questions about technology and betrayal. His story is one of ambition and denial.",
+        "image": "./images/huey.jpg"
+    },
+    "Sniper Wolf": {
+        "id": "P014",
+        "price": 23.99,
+        "description": "A member of FOXHOUND, Sniper Wolf is a tragic figure shaped by war. Her bond with wolves and her final moments reveal her longing for peace.",
+        "image": "./images/sniper wolf.jpg"
+    },
+    "EVA": {
+        "id": "P015",
+        "price": 28.60,
+        "description": "A spy and motorcycle expert, EVA aids Naked Snake during Operation Snake Eater. Her true motives and maternal role add depth to the saga’s legacy.",
+        "image": "./images/eva.jpg"
+    },
+    "Otacon (Hal Emmerich)": {
+        "id": "P016",
+        "price": 35.00,
+        "description": "A tech genius and co-founder of Philanthropy, Otacon supports Solid Snake in stopping Metal Gear threats. His friendship and moral compass ground the series.",
+        "image": "./images/otacon.jpg"
+    },
+    "Skull Face": {
+        "id": "P017",
+        "price": 21.45,
+        "description": "A disfigured villain with a vendetta against language itself, Skull Face seeks to reshape the world through fear. His ideology critiques colonialism and control.",
+        "image": "./images/skull face.jpg"
+    },
+    "D-Dog": {
+        "id": "P018",
+        "price": 12.99,
+        "description": "A loyal canine companion trained for combat, D-Dog assists Venom Snake in missions. His presence adds heart and utility to the battlefield.",
+        "image": "./images/d-dog.jpg"
+    },
+    "Code Talker": {
+        "id": "P019",
+        "price": 24.75,
+        "description": "A Navajo biologist who helps Diamond Dogs understand the vocal cord parasites. His wisdom and cultural background enrich the narrative’s depth.",
+        "image": "./images/code talker.jpg"
+    },
+    "Jetstream Sam": {
+        "id": "P020",
+        "price": 32.80,
+        "description": "A Brazilian swordsman with a strong sense of honor, Jetstream Sam becomes a rival to Raiden in Metal Gear Rising: Revengeance. Though he fights for a private military company, his motivations are rooted in personal philosophy and the thrill of battle. His story explores the tension between freedom and control.",
+        "image": "./images/jetstream sam.jpg"
+    }
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Metal Gear Tactical Shop</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header class="navbar">
+        <div class="logo">⚡ Metal Gear Tactical</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="#landing">Home</a></li>
+                <li><a href="#shop">Shop</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="landing" id="landing">
+        <div class="overlay"></div>
+        <div class="hero-content">
+            <h1 class="headline">Metal Gear Tactical</h1>
+            <p class="description">
+                A fun made-up shop to buy Metal Gear characters.
+            </p>
+            <img src="./Untitled (100 x 100 px).png" alt="Visual" class="hero-image" />
+        </div>
+        <div class="scroll-indicator">▼</div>
+    </section>
+
+
+    <!-- shop code -->
+    <section class="shop" id="shop">
+        <div class="store-page">
+            <h1>Metal Gear Characters</h1>
+            <input type="text" id="search-box" placeholder="Search characters..." />
+            <select id="sort-menu">
+                <option value="">Sort by...</option>
+                <option value="price-asc">Price: Low to High</option>
+                <option value="price-desc">Price: High to Low</option>
+                <option value="name-asc">Name: A–Z</option>
+            </select>
+            <div class="product-holder">
+
+            </div>
+            <div id="pagination-controls">
+                <button id="prev-page">Previous</button>
+                <span id="page-indicator">Page 1</span>
+                <button id="next-page">Next</button>
+            </div>
+
+
+            <!-- Cart Button -->
+            <button id="cart-button"><i class="fa-solid fa-cart-shopping"></i></button>
+
+            <!-- Cart Modal -->
+            <div id="cart-modal" class="hidden">
+                <div id="cart-content">
+                    <h2>Your Cart</h2>
+                    <ul id="cart-items"></ul>
+                    <button id="close-cart">Close</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
